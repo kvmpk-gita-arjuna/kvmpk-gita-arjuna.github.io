@@ -2,44 +2,10 @@
 layout: default
 ---
 
-## About Me
+<!-- <img class="profile-picture" src="rosendal.jpg"> -->
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi, I'm Harini. Currently, I am a PhD student in computer science at MIT, where I am part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+My research is at the intersection of machine learning (ML) and human-computer interaction (HCI). I'm interested in making ML systems more *grounded in context*. In my current work, this takes a lot of forms: for example, [co-designing](http://www.kanarinka.com/wp-content/uploads/2021/01/DIgnazio-et-al.-2020-Feminicide-Machine-Learning-Detecting-Gender-ba.pdf) context-specific datasets and models for counterdata collection, or developing [tools](https://arxiv.org/pdf/2102.08540.pdf) and [theory](https://dl.acm.org/doi/pdf/10.1145/3411764.3445088) for communicating the limitations of ML systems to the people who use them and are affected by them.    
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Before this, I did my undergrad and M.Eng. at MIT as well, working on [ML for healthcare](http://proceedings.mlr.press/v68/suresh17a/suresh17a.pdf). During my PhD, I've spent a couple summers interning at Google Brain, where I worked on [studying biases](https://arxiv.org/pdf/2011.03395.pdf) in word embedding models and building interactive [visualizations](https://github.com/PAIR-code/book-viz) of books with sentence embeddings. I also love traveling, reading, cooking and baking, and doing aerial arts. (This website template is forked from [this repo](https://github.com/ankitsultana/researcher).)

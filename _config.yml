@@ -1,23 +1,25 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Harini Suresh
+url: "https://harinisuresh.com"
+baseurl: "/"
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Contact"
-   link: "contact"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "About"
-   link: "/researcher/"
+ - name: "about"
+   link: "/"
+ - name: "publications"
+   link: "research"
+ - name: "projects"
+   link: "projects"
+ - name: "cv"
+   link: "harini_cv.pdf"
+ - name: "contact"

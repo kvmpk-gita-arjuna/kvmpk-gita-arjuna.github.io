@@ -22,6 +22,10 @@
     {% endif %}
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=PT+Serif&family=Signika+Negative:wght@300;400;600&display=swap" rel="stylesheet">
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
@@ -56,15 +60,18 @@
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
-            <ul class="alignable pull-right navbar-ul">
+            {% if site.ins_logo %}
+                <img id="ins-logo" src="{{ site.ins_logo }}" />
+            {% endif %}
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
-                    {% if forloop.first == false %}
+                    {% if forloop.last == false %}
                         /
                     {% endif %}
                         </li>
@@ -79,12 +86,12 @@
             <div class="container content">
         {% endif %}
                 {{ content }}
-				{% if site.footer == true %}
-					<hr />
-					<p style="text-align: center; margin-bottom: 10px">
-					<a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-					</p>
-				{% endif %}
+                {% if site.footer == true %}
+                    <hr />
+                    <p style="text-align: center; margin-bottom: 10px">
+                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                    </p>
+                {% endif %}
             </div>
     </div>
     {% if site.tracking_id %}
