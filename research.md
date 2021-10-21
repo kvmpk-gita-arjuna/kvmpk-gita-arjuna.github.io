@@ -47,7 +47,7 @@ Machine Learning for Healthcare Conference (MLHC 2017).\
 
 ### Workshops and Posters 
 
-<span class='paper-title'>Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism.</span> 
+<span class='paper-title'>Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism.</span>\
 Mechanism Design for Social Good Workshop (MD4SG 2020). *New Horizons Award for Most Inspiring Paper* \
 Catherine D'Ignazio, Helena Suarez Val, Silvana Fumega, **Harini Suresh**, Isadora Cruxen, Wonyoung So, Maria De Los Angeles Martinez and Mariel Garcia-Montes \
 [[paper](http://www.kanarinka.com/wp-content/uploads/2021/01/DIgnazio-et-al.-2020-Feminicide-Machine-Learning-Detecting-Gender-ba.pdf)] [[talk](https://www.youtube.com/watch?v=lEIDZ443wR4)]
