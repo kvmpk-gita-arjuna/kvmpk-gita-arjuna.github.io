@@ -62,11 +62,12 @@ Women in Machine Learning (WiML) Workshop, NIPS 2017.\
 **Harini Suresh**&#10023;, Divya Shanmugam&#10023;, John Guttag (&#10023; = equal contribution)\
 [[poster](wimlposter.pdf)]
 
-<span class='paper-title'>The Use of Autoencoders for Discovering Patient Phenotypes.</span>\ Machine Learning for Healthcare Workshop, NeurIPS 2016.\
+<span class='paper-title'>The Use of Autoencoders for Discovering Patient Phenotypes.</span>\
+Machine Learning for Healthcare Workshop, NeurIPS 2016.\
 **Harini Suresh**, Peter Szolovits, Marzyeh Ghassemi.\
 [[paper](https://arxiv.org/pdf/1703.07004.pdf)]
 
-<span class='paper-title'>Feature Representations for Predicting ICU Mortality</span>\ 
+<span class='paper-title'>Feature Representations for Predicting ICU Mortality</span>\
 SuperUROP thesis, Computational Biophysics Group, MIT RLE\
 **Harini Suresh**\
 [[paper](final-superurop-paper.pdf)]
