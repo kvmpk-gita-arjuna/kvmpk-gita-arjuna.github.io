@@ -13,7 +13,7 @@ layout: default
 <span class='paper-title'>A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle.</span> \
 ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’21). \
 **Harini Suresh** and John Guttag \
-[[paper](sources-of-harm-eaamo.pdf)] [[SERC case study version](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)]
+[[paper](https://dl.acm.org/doi/10.1145/3465416.3483305)] [[SERC case study version](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)][[talk](https://www.youtube.com/watch?v=LdeONMfcAmE)]
 
 <span class='paper-title'>Beyond Expertise and Roles: A Framework to Characterize the Stakeholders of Interpretable Machine Learning and their Needs.</span>\
 CHI Conference on Human Factors in Computing Systems (CHI ’21).\
