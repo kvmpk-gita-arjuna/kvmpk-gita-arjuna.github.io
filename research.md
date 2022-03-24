@@ -2,16 +2,15 @@
 layout: default
 ---
 
-### Working Papers 
-
-<span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
-**Harini Suresh**, Kathleen M. Lewis, John V. Guttag, Arvind Satyanarayan. \
-[[paper](https://arxiv.org/abs/2102.08540)]
-
 ### Conference & Journal Publications 
 
+<span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
+ACM Conference on Intelligent User Interfaces (IUI '22). \
+**Harini Suresh**, Kathleen M. Lewis, John V. Guttag, Arvind Satyanarayan. \
+[[paper](https://dl.acm.org/doi/10.1145/3490099.3511160)]
+
 <span class='paper-title'>A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle.</span> \
-ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’21). \
+ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’21). \
 **Harini Suresh** and John Guttag \
 [[paper](https://dl.acm.org/doi/10.1145/3465416.3483305)] [[SERC case study version](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)][[talk](https://www.youtube.com/watch?v=LdeONMfcAmE)]
 
@@ -25,7 +24,7 @@ npj Digital Medicine, 2021.\
 Susanne Gaube&#10023;, **Harini Suresh**&#10023;, Martina Raue, Alexander Merritt, Seth J. Berkowitz, Eva Lermer, Joseph F. Coughlin, John V. Guttag, Errol Colak, Marzyeh Ghassemi (&#10023; = equal contribution)\
 [[paper](https://www.nature.com/articles/s41746-021-00385-9)]
 
-<span class='paper-title'>Misplaced Trust: Measuring the Interference of Machine Learning in Human Decision-Making.</span> 
+<span class='paper-title'>Misplaced Trust: Measuring the Interference of Machine Learning in Human Decision-Making.</span> \
 ACM Conference on Web Science (WebSci 2020).\
 **Harini Suresh**, Natalie Lao, Ilaria Liccardi. \
 [[paper](https://dl.acm.org/doi/abs/10.1145/3394231.3397922)] [[talk](https://drive.google.com/file/d/1gfOii-kgqUm4KqwamQPRy4L7ltHnxDUs/view?usp=sharing)]
