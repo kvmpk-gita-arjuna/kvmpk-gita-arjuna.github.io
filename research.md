@@ -7,7 +7,7 @@ layout: default
 <span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
 ACM Conference on Intelligent User Interfaces (IUI '22). \
 **Harini Suresh**, Kathleen M. Lewis, John V. Guttag, Arvind Satyanarayan. \
-[[paper](https://dl.acm.org/doi/10.1145/3490099.3511160)]
+[[paper](https://dl.acm.org/doi/10.1145/3490099.3511160)][[talk](https://www.youtube.com/watch?v=8mpYOiH-S9M)]
 
 <span class='paper-title'>A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle.</span> \
 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’21). \
