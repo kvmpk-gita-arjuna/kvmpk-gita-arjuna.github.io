@@ -4,6 +4,15 @@ layout: default
 
 ### Conference & Journal Publications 
 
+<span class='paper-title'>Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.</span>\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
+**Harini Suresh**, Rajiv Movva, Amelia Lee Dogan, Rahul Bhargava, Isadora Cruxên, Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. \
+[[paper](https://drive.google.com/file/d/1AWLlbzmk0qBvhtRPWIEeoNztwAS_NcE7/view?usp=sharing)]
+
+<span class='paper-title'>Tech Worker Organizing for Power and Accountability.</span>\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
+William Boag, **Harini Suresh**, Bianca Lepe, Catherine D'Ignazio. \
+
 <span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
 ACM Conference on Intelligent User Interfaces (IUI '22). \
 **Harini Suresh**, Kathleen M. Lewis, John V. Guttag, Arvind Satyanarayan. \
