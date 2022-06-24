@@ -11,7 +11,13 @@ ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
 
 <span class='paper-title'>Tech Worker Organizing for Power and Accountability.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
-William Boag, **Harini Suresh**, Bianca Lepe, Catherine D'Ignazio. \
+William Boag, **Harini Suresh**, Bianca Lepe, Catherine D'Ignazio. 
+[[paper](https://facctconference.org/static/pdfs_2022/facct22-37.pdf)]
+
+<span class='paper-title'>Feminicide and counterdata production: Activist efforts to monitor and challenge gender-related violence.</span>\
+Patterns (2022).\
+Catherine D'Ignazio, Isadora Cruxên, Helena Suárez Val, Angeles Martinez Cuba, Mariel García-Montes, Silvana Fumega, **Harini Suresh**, Wonyoung So.
+[[paper](https://www.sciencedirect.com/science/article/pii/S2666389922001271)]
 
 <span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
 ACM Conference on Intelligent User Interfaces (IUI '22). \
