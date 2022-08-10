@@ -6,17 +6,18 @@ layout: default
 
 <span class='paper-title'>Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
+<span style='color:#ef3e6a;'>&#9733; Best student paper award &#9733;</span> \
 **Harini Suresh**, Rajiv Movva, Amelia Lee Dogan, Rahul Bhargava, Isadora Cruxên, Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. \
 [[paper](https://drive.google.com/file/d/1AWLlbzmk0qBvhtRPWIEeoNztwAS_NcE7/view?usp=sharing)]
 
 <span class='paper-title'>Tech Worker Organizing for Power and Accountability.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
-William Boag, **Harini Suresh**, Bianca Lepe, Catherine D'Ignazio. 
+William Boag, **Harini Suresh**, Bianca Lepe, Catherine D'Ignazio. \
 [[paper](https://facctconference.org/static/pdfs_2022/facct22-37.pdf)]
 
 <span class='paper-title'>Feminicide and counterdata production: Activist efforts to monitor and challenge gender-related violence.</span>\
 Patterns (2022).\
-Catherine D'Ignazio, Isadora Cruxên, Helena Suárez Val, Angeles Martinez Cuba, Mariel García-Montes, Silvana Fumega, **Harini Suresh**, Wonyoung So.
+Catherine D'Ignazio, Isadora Cruxên, Helena Suárez Val, Angeles Martinez Cuba, Mariel García-Montes, Silvana Fumega, **Harini Suresh**, Wonyoung So.\
 [[paper](https://www.sciencedirect.com/science/article/pii/S2666389922001271)]
 
 <span class='paper-title'>Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs.</span>\
@@ -62,7 +63,8 @@ Machine Learning for Healthcare Conference (MLHC 2017).\
 ### Workshops and Posters 
 
 <span class='paper-title'>Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism.</span>\
-Mechanism Design for Social Good Workshop (MD4SG 2020). *New Horizons Award for Most Inspiring Paper* \
+Mechanism Design for Social Good Workshop (MD4SG 2020). 
+<span style='color:#ef3e6a;'>&#9733; New Horizons award for most inspiring paper &#9733;</span> \
 Catherine D'Ignazio, Helena Suarez Val, Silvana Fumega, **Harini Suresh**, Isadora Cruxen, Wonyoung So, Maria De Los Angeles Martinez and Mariel Garcia-Montes \
 [[paper](http://www.kanarinka.com/wp-content/uploads/2021/01/DIgnazio-et-al.-2020-Feminicide-Machine-Learning-Detecting-Gender-ba.pdf)] [[talk](https://www.youtube.com/watch?v=lEIDZ443wR4)]
 
