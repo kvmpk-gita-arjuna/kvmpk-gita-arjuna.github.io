@@ -10,4 +10,5 @@ Hello there! I am Mallikarjuna, my friends and colleagues call me as Arjun. I'm 
 
 My research interests include Deep Learning, Computer Vision, NLP, and Generative Models, also I have minor interests in Cognitive Sciences. Currently, I am working with [Prof. Sumeet Kumar](https://sumeetkumar.in/) and [Prof. Ashique KhudaBukhsh](https://www.cs.cmu.edu/~akhudabu/) on projects related to AI for Social Good. If you are looking for mentorship to pursue a career in AI feel free to email happy to help :)
 
-I strongly belive and follows on this quote from Bhagavad Gita **KARMANYE VADHIKARASTE MA PHALESHU KADACHANA**
+
+This quote from the Bhagavad Gita, **KARMANYE VADHIKARASTE MA PHALESHU KADACHANA**, is one that I wholeheartedly believe in and try to live by.
