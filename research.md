@@ -13,7 +13,7 @@ Proceedings of the National Academy of Sciences ( Submitted ) \
 Summet Kumar, **Mallikarjuna T.**, Ashique Khudabukhsh 
 
 <span class='paper-title'>Quantifying the Educational Quality of Children’s Videos using Machine Comprehension </span>\
-INFORMS Journal on Computing (Submitted). \
+INFORMS Journal on Computing (Revise and Resubmit). \
 Summet Kumar, **Mallikarjuna T.**, Ashique Khudabukhsh. 
 
 <span class='paper-title'>Rating the Language Appropriateness of Children’s Videos on YouTube </span>\
